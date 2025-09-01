@@ -1,5 +1,9 @@
+<h1> 다 맡케팅 - AI 기반 소셜미디어 마케팅 자동화 플랫폼 </h1>
+
+</br>
+
 <div align="center">
-  <img src="./assets/Main.png" alt="Main" style="border-radius: 10px;"/>
+  <img src="./profile/assets/default-page.png" alt="Main" style="border-radius: 10px;"/>
 </div>
 
 **AI 기반 소셜미디어 마케팅 자동화 플랫폼**

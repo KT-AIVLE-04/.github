@@ -11,13 +11,12 @@
 - [🏗️ 시스템 아키텍처](#️-시스템-아키텍처)
 - [🛠️ 기술 스택](#️-기술-스택)
 - [📁 레포지토리 구조](#-레포지토리-구조)
-- [🚀 바로 사용하기](#-바로-사용하기)
+- [🌐 라이브 데모](#-라이브-데모)
 - [📚 문서](#-문서)
-- [🏆 성과 및 결과](#-성과-및-결과)
 - [🤝 기여하기](#-기여하기)
 - [📄 라이선스](#-라이선스)
 
-<br>
+---
 
 ## 👥 팀 소개
 
@@ -91,7 +90,7 @@
 </tr>
 </table>
 
-<br>
+---
 
 ## 🎯 프로젝트 개요
 
@@ -118,8 +117,7 @@
 | 🔧 복잡한 도구들 | → |  🎯 올인원 통합 플랫폼   |
 | 📈 분석 기능 부족 | → |   📊 실시간 성과 분석   |
 
-
-<br>
+---
 
 ## ✨ 주요 기능
 
@@ -150,14 +148,14 @@ YouTube, Instagram, TikTok 등 여러 플랫폼에 동시 업로드 및 예약 �
 
 [![시연 영상](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
-<br>
+---
 
 ## 🏗️ 시스템 아키텍처
 
 ![시스템 아키텍처](assets/아키텍처.png)
 
 
-<br>
+---
 
 ## 🛠️ 기술 스택
 
@@ -168,6 +166,7 @@ YouTube, Instagram, TikTok 등 여러 플랫폼에 동시 업로드 및 예약 �
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.4-brightgreen?logo=springboot)
 ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-2025.0.0-brightgreen?logo=spring)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6.x-brightgreen?logo=springsecurity)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green?logo=fastapi)
 
 ### **Database & Cache**
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql)
@@ -183,10 +182,13 @@ YouTube, Instagram, TikTok 등 여러 플랫폼에 동시 업로드 및 예약 �
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue?logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.x-blue?logo=tailwindcss)
 
-### **AI & External APIs**
-![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green?logo=fastapi)
+### **External APIs**
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-API-black?logo=openai)
 ![YouTube API](https://img.shields.io/badge/YouTube-API-red?logo=youtube)
+![Instagram API](https://img.shields.io/badge/Instagram-API-purple?logo=instagram)
+![Kakao API](https://img.shields.io/badge/Kakao-API-yellow?logo=kakaotalk)
+![Google API](https://img.shields.io/badge/Google-API-blue?logo=google)
 
 ### **DevOps & Tools**
 ![Docker](https://img.shields.io/badge/Docker-Compose-blue?logo=docker)
@@ -195,7 +197,7 @@ YouTube, Instagram, TikTok 등 여러 플랫폼에 동시 업로드 및 예약 �
 
 </div>
 
-<br>
+---
 
 ## 📁 레포지토리 구조
 
@@ -226,88 +228,38 @@ YouTube, Instagram, TikTok 등 여러 플랫폼에 동시 업로드 및 예약 �
     └── 📁 src/
 ```
 
-### 🔗 **레포지토리 링크**
+<br>
 
-| 레포지토리 | 설명 | 링크 |
-|:---:|:---|:---:|
-| **Backend** | 마이크로서비스 백엔드 시스템 | [![Repo](https://img.shields.io/badge/GitHub-Backend-blue?logo=github)](https://github.com/your-org/backend) |
-| **Frontend** | React 웹 애플리케이션 | [![Repo](https://img.shields.io/badge/GitHub-Frontend-blue?logo=github)](https://github.com/your-org/frontend) |
-| **AI Service** | FastAPI 기반 AI 서비스 | [![Repo](https://img.shields.io/badge/GitHub-AI%20Service-blue?logo=github)](https://github.com/your-org/ai-service) |
-| **Mobile** | React Native 모바일 앱 | [![Repo](https://img.shields.io/badge/GitHub-Mobile-blue?logo=github)](https://github.com/your-org/mobile) |
+### 🔗 **레포지토리 링크**
+| 레포지토리 | 설명 |                                                           링크                                                            |
+|:---:|:---|:-----------------------------------------------------------------------------------------------------------------------:|
+| **Backend** | 마이크로서비스 백엔드 시스템 |     [![Repo](https://img.shields.io/badge/GitHub-Backend-blue?logo=github)](https://github.com/KT-AIVLE-04/backend)     |
+| **Frontend** | React 웹 애플리케이션 |    [![Repo](https://img.shields.io/badge/GitHub-Frontend-blue?logo=github)](https://github.com/KT-AIVLE-04/frontend)    |
+| **AI Service** | FastAPI 기반 AI 서비스 | [![Repo](https://img.shields.io/badge/GitHub-AI%20Service-blue?logo=github)](https://github.com/KT-AIVLE-04/backend_ai) |
+
 
 ---
 
-## 🚀 바로 사용하기
-
-### 🌐 **라이브 데모**
-**웹사이트**: [https://your-demo-url.com](https://your-demo-url.com)
+## 🌐 **라이브 데모**
+**웹사이트**: [https://aivle.r-e.kr/](https://aivle.r-e.kr/)
 
 **테스트 계정**:
-- 아이디: `demo@example.com`
-- 비밀번호: `demo1234`
-
-### 🛠️ **로컬 설치**
-
-#### 필수 요구사항
-- Node.js 18+
-- Java 17+
-- Docker & Docker Compose
-
-#### 빠른 시작
-```bash
-# 1. 전체 프로젝트 클론
-git clone https://github.com/your-org/marketing-platform.git
-cd marketing-platform
-
-# 2. 백엔드 실행
-cd backend
-docker-compose up -d
-./gradlew clean build
-./scripts/start-services.sh
-
-# 3. 프론트엔드 실행  
-cd ../frontend
-npm install
-npm start
-```
-
-**접속**: http://localhost:3000
+- 아이디: `aivletest0204@gmail.com`
+- 비밀번호: `aivle0204`
 
 ---
 
 ## 📚 문서
 
 ### 📖 **개발 문서**
-- [📋 프로젝트 계획서](docs/project-plan.md)
-- [🏗️ 시스템 설계서](docs/system-design.md)
-- [🎨 UI/UX 가이드](docs/design-guide.md)
-- [🔐 API 문서](docs/api-documentation.md)
+- [📋 1P 설명서](docs/1P_설명서.jpg)
+- [🏗️ 요구사항 정의서](docs/요구사항정의서.xlsx)
+- [🔐 API 문서](https://aivle.r-e.kr/swagger-ui/index.html#/)
 
 ### 🎓 **학습 자료**
 - [🤖 AI 모델 학습 과정](docs/ai-training.md)
 - [⚡ 성능 최적화](docs/performance.md)
 - [🔍 트러블슈팅 가이드](docs/troubleshooting.md)
-
----
-
-## 🏆 성과 및 결과
-
-### 📈 **프로젝트 성과**
-- ✅ **개발 완료**: MSA 기반 풀스택 프로젝트 구현
-- ✅ **AI 통합**: OpenAI API 활용한 자동 콘텐츠 생성
-- ✅ **SNS 연동**: YouTube API 완전 연동
-- ✅ **실시간 분석**: Kafka 기반 이벤트 스트리밍
-
-### 🎯 **기술적 성취**
-- **마이크로서비스**: 7개 독립 서비스로 구성
-- **확장성**: Docker 기반 컨테이너 오케스트레이션
-- **보안**: JWT + OAuth2 다중 인증 시스템
-- **성능**: Redis 캐싱으로 응답속도 50% 개선
-
-### 🏅 **수상 및 인정**
-- 🥇 **KT AIVLE School 최우수 프로젝트**
-- 🏆 **혁신 기술상** - AI 활용 부문
-- 📰 **언론 보도**: [관련 기사 링크]
 
 ---
 
@@ -319,9 +271,8 @@ npm start
 3. **코드 기여**: Fork → 개발 → Pull Request
 
 ### 📧 **연락처**
-- **프로젝트 리더**: 안성현 (seonghyeon.an@example.com)
-- **기술 문의**: dev-team@example.com
-- **비즈니스 문의**: business@example.com
+- **기술 문의**: tjsdk34549@gmail.com
+- **비즈니스 문의**: tjsdk34549@gmail.com
 
 ---
 
@@ -343,8 +294,8 @@ Permission is hereby granted, free of charge, to any person obtaining a copy...
 
 **🌟 Star this project if you like it! 🌟**
 
-[![GitHub stars](https://img.shields.io/github/stars/your-org/marketing-platform?style=social)](https://github.com/your-org/marketing-platform/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/your-org/marketing-platform?style=social)](https://github.com/your-org/marketing-platform/network)
+[![GitHub stars](https://img.shields.io/github/stars/KT-AIVLE-04/backend?style=social)](https://github.com/KT-AIVLE-04/backend/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/KT-AIVLE-04/backend?style=social)](https://github.com/KT-AIVLE-04/backend/network)
 
 ---
 

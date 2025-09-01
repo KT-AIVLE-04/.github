@@ -283,7 +283,7 @@ YouTube, Instagram, TikTok 등 여러 플랫폼에 동시 업로드 및 예약 �
 ```
 MIT License
 
-Copyright (c) 2024 KT AIVLE School 4기 마케팅 플랫폼 팀
+Copyright (c) 2024 KT AIVLE School 7기 4조 카오스 팀
 
 Permission is hereby granted, free of charge, to any person obtaining a copy...
 ```
@@ -299,7 +299,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy...
 
 ---
 
-**© 2025 KT AIVLE School 7기 4조 All rights reserved.**
+**© 2025 KT AIVLE School 7기 4조 카오스 팀 All rights reserved.**
 
 *Built with ❤️ in Seoul, Korea*
 

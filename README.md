@@ -1,16 +1,9 @@
-<h1> 다 맡케팅 - AI 기반 소셜미디어 마케팅 자동화 플랫폼 </h1>
+<img src="./profile/assets/default-page.png" alt="Main" style="border-radius: 10px;"/>
+
+
+### 다 맡케팅은 AI 기반 마케팅 자동화 서비스입니다. AI를 활용한 **{ 콘텐츠 생성, SNS 자동화 및 분석 }** 을 통해 효율적인 소셜미디어 마케팅을 지원합니다.
 
 </br>
-
-<div align="center">
-  <img src="./profile/assets/default-page.png" alt="Main" style="border-radius: 10px;"/>
-</div>
-
-**AI 기반 소셜미디어 마케팅 자동화 플랫폼**
-
-이 프로젝트는 Spring Boot 기반의 마이크로서비스 아키텍처로 구축된 마케팅 자동화 플랫폼입니다.
-</br>
-AI를 활용한 **{ 콘텐츠 생성, SNS 자동화 및 분석 }** 을 통해 효율적인 소셜미디어 마케팅을 지원합니다.
 
 ## 📋 목차
 - [팀 소개](#-팀-소개)

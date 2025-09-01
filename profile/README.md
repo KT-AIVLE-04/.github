@@ -299,7 +299,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy...
 
 ---
 
-**© 2024 KT AIVLE School 4기 - 마케팅 플랫폼 팀. All rights reserved.**
+**© 2025 KT AIVLE School 7기 4조 All rights reserved.**
 
 *Built with ❤️ in Seoul, Korea*
 

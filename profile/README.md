@@ -127,7 +127,7 @@
 1. 일반 회원가입 > 가게 추가 >  가게 수정
 2. 기존 회원가입과 구글 소셜 회원가입연동
 3. 신규 카카오 소셜 회원가입
-[![회원, 매장관리 시연 영상](https://img.youtube.com/vi/E-gFf4XXeV4/maxresdefault.jpg)](https://www.youtube.com/watch?v=E-gFf4XXeV4)
+![![회원, 매장관리 시연 영상](https://img.youtube.com/vi/E-gFf4XXeV4/maxresdefault.jpg)](https://www.youtube.com/watch?v=E-gFf4XXeV4)
 
 ### 🏪 매장 관리 시스템
 업종별 매장 정보 관리와 타겟 고객 분석을 통한 맞춤형 콘텐츠 제안

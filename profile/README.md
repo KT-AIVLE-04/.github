@@ -81,7 +81,7 @@
 <td>
 <img src="https://github.com/user-attachments/assets/74694fbe-4be2-4ccf-bdff-0ddcb8552891" width="100px" style="border-radius: 50%;"><br/>
 <b>전민지</b><br/>
-<sub><b>AI, Front-end</b></sub><br/>
+<sub><b>Back-end, Front-end</b></sub><br/>
 <br/>
 <a href="https://github.com/charmeee">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
